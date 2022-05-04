@@ -8,7 +8,6 @@
   - C++
 ## 🌱 No momento estou estudando...
   - Lua
-  - Javascript
   - Estrutura de dados
 ## :heart: E sou apaixonado por:
   - Open Source
