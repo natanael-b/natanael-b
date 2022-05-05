@@ -1,6 +1,6 @@
 #  👋 Olá, eu sou Natanael Barbosa Santos
 ## 👀 Meus interesses são...
-  - Desing de interfaces
+  - Design de interfaces
   - AppImages
   - Shell Script
   - PHP
