@@ -15,7 +15,9 @@
   - UX
   - Social Media
   - Qt
+<!--
 ## 📫 Se quiser entrar em contato comigo:
   - Meu Telegram
   - Meu Instagram
   - Meu Canal no YouTube
+-->
