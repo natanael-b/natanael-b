@@ -10,6 +10,7 @@
   - Lua
   - Estrutura de dados
 ## :heart: E sou apaixonado por:
+  - Josiely minha esposa 👩‍❤️‍👨
   - Open Source
   - Desing 
   - UX
